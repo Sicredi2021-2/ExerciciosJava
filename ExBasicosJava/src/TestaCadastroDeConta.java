@@ -15,8 +15,6 @@ public class TestaCadastroDeConta {
 		
 		System.out.println("Test2 - recupera conta inválida");
 		System.out.println(cad.getConta(555555));
-		
-
 	}
 
 }
